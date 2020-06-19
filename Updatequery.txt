@@ -1,4 +1,0 @@
-queris for database update
-
-1. {validator:{$exists:true}}
-2. {$set:{validator : null}}
